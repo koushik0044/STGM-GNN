@@ -54,7 +54,7 @@ The notebook `AI_Project.ipynb` is designed to be run on Google Colab, providing
 
 Here is the architecture of the STGM:
 
-![Model Architecture](AI-FINAL-PROJECT/STGM-GNN/Group 1.jpg)
+![Model Architecture](Group 1.jpg)
 
 ### Data Preprocessing
 
